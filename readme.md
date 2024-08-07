@@ -25,7 +25,7 @@ Activity Generator is a web application that generates random activities or acti
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/dileep2602/activity-generator.git
    cd activity-generator
    ```
 
@@ -83,4 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, you can reach out to dileepkharvi037@gmail.com or create an issue on the [GitHub repository](https://github.com/yourusername/activity-generator).
+For any questions or feedback, you can reach out to dileepkharvi037@gmail.com or create an issue on the [GitHub repository](https://github.com/dileep2602/activity-generator.git).
